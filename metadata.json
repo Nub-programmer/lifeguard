@@ -1,0 +1,6 @@
+{
+  "name": "LifeGuard",
+  "description": "Wi-Fi ThermoMap Indoor Presence Simulation for Camera-Free Indoor Sensing Concept",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
